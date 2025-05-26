@@ -668,13 +668,14 @@ page4
 
 ## OUTPUT:
 
-![alt text](image.png)
+![image1](https://github.com/user-attachments/assets/f40776f0-b651-4781-9f1b-e4683f793aef)
 
-![alt text](image-1.png)
+![image2](https://github.com/user-attachments/assets/00c31e4c-7345-4d82-9624-0728489f85ad)
 
-![alt text](image-2.png)
+![image3](https://github.com/user-attachments/assets/a2109218-d2d9-4543-b7b1-6811356bcf38)
 
-![alt text](image-3.png)
+![image4](https://github.com/user-attachments/assets/c1a184af-a7de-4188-b0da-3e7ff76d426a)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
